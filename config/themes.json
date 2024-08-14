@@ -47,7 +47,7 @@
 
                     "SearchBarWidth":               "200",
                     "SearchBarHeight":              "25",
-                    "SearchBarTextBoxFontSize":     "16",
+                    "SearchBarTextBoxFontSize":     "11",
                     "SearchBarClearButtonFontSize": "14",
 
                     "ButtonInstallBackgroundColor":  "#FFFFFF",
@@ -120,7 +120,7 @@
 
                     "SearchBarWidth":               "200",
                     "SearchBarHeight":              "25",
-                    "SearchBarTextBoxFontSize":     "16",
+                    "SearchBarTextBoxFontSize":     "11",
                     "SearchBarClearButtonFontSize": "14",
 
                     "ButtonInstallBackgroundColor":  "#222222",
@@ -192,7 +192,7 @@
 
                     "SearchBarWidth":               "200",
                     "SearchBarHeight":              "25",
-                    "SearchBarTextBoxFontSize":     "16",
+                    "SearchBarTextBoxFontSize":     "11",
                     "SearchBarClearButtonFontSize": "14",
 
                     "ButtonInstallBackgroundColor": "#222222",

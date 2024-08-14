@@ -652,7 +652,7 @@
                     Grid.Column="0"
                     Width="{SearchBarWidth}"
                     Height="{SearchBarHeight}"
-                    FontSize="12"
+                    FontSize="{SearchBarTextBoxFontSize}"
                     VerticalAlignment="Center" HorizontalAlignment="Left"
                     BorderThickness="1"
                     Name="SearchBar"
@@ -665,7 +665,7 @@
                     VerticalAlignment="Center" HorizontalAlignment="Left"
                     FontFamily="Segoe MDL2 Assets"
                     FontSize="{IconFontSize}"
-                    Margin="180,0,0,0">&#xE721;</TextBlock>
+                    Margin="170,0,0,0">&#xE721;</TextBlock>
                 <!--
                   TODO:
                     Make this ClearButton Positioning react to
@@ -678,7 +678,7 @@
                     VerticalAlignment="Center" HorizontalAlignment="Left"
                     Name="SearchBarClearButton"
                     Style="{StaticResource SearchBarClearButtonStyle}"
-                    Margin="205,0,0,0" Visibility="Collapsed"/>
+                    Margin="185,0,0,0" Visibility="Collapsed"/>
 
                 <ProgressBar
                     Grid.Column="1"
